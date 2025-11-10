@@ -224,7 +224,7 @@ Tukey HSD post-hoc tests indicated that all three programs produced significantl
    - Group 2 (n=4): 22, 24, 23, 21 (Mean = 22.5)
    - Group 3 (n=4): 18, 20, 19, 19 (Mean = 19.0)
 
-2. **Problem B**: If SS_between = 120, SS_within = 180, with 4 groups and 20 total participants, calculate F and determine if it's significant at α = 0.05.
+2. **Problem B**: If SS_between = 120, SS_within = 180, with 4 groups and 20 total participants, calculate F and determine if it is significant at α = 0.05.
 
 3. **Problem C**: An ANOVA yields F(3, 36) = 4.25. Using α = 0.05, is this result significant? What does this tell you?
 
