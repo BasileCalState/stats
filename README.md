@@ -35,6 +35,7 @@ All datasets are located in the `data/` directory and include:
 - `athletic_performance.csv` - Sprint times, jump heights, strength measurements
 - `training_study.csv` - Pre/post training intervention data
 - `exercise_programs.csv` - Results from different exercise interventions
+- `marathon_training.csv` - Marathon runner training volumes and race times
 
 ## How to Use These Examples
 
