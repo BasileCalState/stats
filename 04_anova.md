@@ -10,6 +10,8 @@ Is there a significant difference in flexibility improvements among the three ex
 
 ## Dataset
 
+*Note: The `exercise_programs.csv` file in the data directory contains data from 20 participants including a Control group. For this example, we use the first 5 participants from each of the three treatment groups (yoga, static stretching, and dynamic stretching).*
+
 **Yoga Group (cm):**
 ```
 35, 38, 36, 37, 39

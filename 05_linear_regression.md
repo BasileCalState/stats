@@ -10,6 +10,8 @@ Can weekly training mileage predict marathon finishing time? What is the nature 
 
 ## Dataset
 
+*Note: The `marathon_training.csv` file in the data directory contains data from 15 runners with additional variables (age, experience, long runs, speed workouts). For this example, we use the first 10 runners and focus on weekly mileage and marathon time.*
+
 | Runner | Weekly Training Miles (X) | Marathon Time in Minutes (Y) |
 |--------|---------------------------|------------------------------|
 | 1      | 30                        | 240                          |

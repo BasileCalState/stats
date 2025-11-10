@@ -12,6 +12,8 @@ Is there a significant correlation between bench press strength and throwing vel
 
 Data from 12 collegiate baseball players:
 
+*Note: The `athletic_performance.csv` file in the data directory contains data from 20 athletes across multiple sports. For this example, we focus on the first 10 baseball players' bench press and throwing velocity data.*
+
 | Player | Bench Press (kg) | Throwing Velocity (m/s) |
 |--------|------------------|-------------------------|
 | 1      | 80               | 35                      |
